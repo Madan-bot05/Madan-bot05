@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Madan-bot05
-- 👀 I’m interested in Java FullStack
+- 👋 Hi, I’m Madan Mohan Das
+- 👀 I’m working on Java FullStack with React
 - 🌱 I’m currently learning and discovering more about Java
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me - madanmohandas983@gmail.com
